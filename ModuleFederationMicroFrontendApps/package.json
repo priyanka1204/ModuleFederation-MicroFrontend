@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-nx-workspace": "^15.9.2"
+  }
+}
